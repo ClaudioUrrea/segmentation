@@ -4,7 +4,7 @@
 
 This repository implements the intelligent framework for robust road segmentation in autonomous mining vehicle systems, as described in the paper:
 
-Intelligent Systems for Autonomous Mining Operations: Real-Time Robust Road Segmentation Using Single-Domain Generalization to Address Sensor-Based Visual Degradations
+Intelligent Systems for Autonomous Mining Operations: Real-Time Robust Road Segmentation 
 
 Authors: Claudio Urrea\*, Maximiliano Vélez
 

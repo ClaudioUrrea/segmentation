@@ -1,4 +1,4 @@
-Intelligent Systems for Autonomous Mining Operations: Real-Time Robust Road Segmentation
+**Intelligent Systems for Autonomous Mining Operations: Real-Time Robust Road Segmentation**
 
 
 

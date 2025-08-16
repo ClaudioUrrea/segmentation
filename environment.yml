@@ -1,0 +1,36 @@
+# environment.yml
+name: intelligent-mining
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch>=1.9.0
+  - torchvision>=0.10.0
+  - cudatoolkit=11.3
+  - pip
+  - jupyter
+  - matplotlib
+  - seaborn
+  - pandas
+  - numpy
+  - scikit-learn
+  - opencv
+  - pillow
+  - tqdm
+  - pip:
+    - mmcv-full>=1.3.13,<1.8.0
+    - mmsegmentation>=0.28.0
+    - plotly>=5.0.0
+    - openpyxl>=3.0.7
+    - xlsxwriter>=3.0.0
+    - psutil>=5.8.0
+    - GPUtil>=1.4.0
+    - openpyxl>=3.0.7
+    - xlsxwriter>=3.0.0
+    - psutil>=5.8.0
+    - GPUtil>=1.4.0
+
+
+

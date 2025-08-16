@@ -1,0 +1,21 @@
+# Augmentation Parameters for Intelligent Mining Systems
+photometric_distortion:
+  brightness_delta: 32
+  contrast_range: [0.5, 1.5]
+  saturation_range: [0.5, 1.5]
+  hue_delta: 18
+  probability: 0.5
+
+clahe:
+  clip_limit: 4.0
+  tile_grid_size: [8, 8]
+  probability: 0.5
+
+general:
+  resize:
+    img_scale: [1920, 1080]
+    ratio_range: [0.5, 2.0]
+  flip_probability: 0.5
+  normalize:
+    mean: [123.675, 116.28, 103.53]
+    std: [58.395, 57.12, 57.375]
